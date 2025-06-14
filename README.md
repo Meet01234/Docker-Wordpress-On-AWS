@@ -1,5 +1,6 @@
-
 # Deploy WordPress with MySQL using Docker on AWS EC2
+
+![Screenshot](DWOA.png)
 
 This project sets up a WordPress website on an AWS EC2 instance using Docker. It includes a MySQL container and a WordPress container connected via Docker.
 
